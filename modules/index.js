@@ -17,3 +17,5 @@ if(process.argv[2]==="add"){
 }else if(process.argv[2]==="divide"){
     console.log(utils.divide(10,2));
 }
+
+console.log(process);
