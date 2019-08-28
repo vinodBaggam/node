@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/vinodBaggam/node/issues"
   },
-  "homepage": "https://github.com/vinodBaggam/node#readme"
+  "homepage": "https://github.com/vinodBaggam/node#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "validator": "^11.1.0"
+  }
 }
